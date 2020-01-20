@@ -1,2 +1,0 @@
-# BackgrounGenerator
-Test application
